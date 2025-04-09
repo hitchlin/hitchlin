@@ -6,3 +6,6 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I studied culinary arts and psychology before software engineering.
 
+- Fluent in  HTML/CSS
+- Experienced in Git, GitHub, VSCode, and Figma
+
